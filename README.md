@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrfrkymn
+- 👀 I’m interested in Robotics, Machine Learning and Flutter Development
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on people who wants to create robotics and ML projects together
+- 📫 How to reach me ( you can reach me by me email address mrfrkymn317@gmail.com)
