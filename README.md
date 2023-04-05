@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, My name is Ömer Faruk Yaman</h1>
 <h3 align="center">I am not just a programmer, programming is just a tool I used to build my dream projects.</h3>
 
-- 👨‍🎓 I’m currently an enginnering student at **Bursa Technical University**
+- 👨‍🎓 I’m currently a mechatronic enginnering student at **Bursa Technical University**
 
 - 🤖 I’m currently learning **Machine Learning**
 
 - 🎥 I’m currently working on **Computer Vision projects**
+
+- ⚡ Since my field is engineering, I have knowledge and experience in electronics, microcontrollers, basic integrated circuit design, robotic design, as well as software.
 
 - 🎨 I also use Blender as a hobby. **I will open an ArtStation account when I created enough art**
 
