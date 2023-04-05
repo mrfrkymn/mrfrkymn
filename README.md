@@ -7,13 +7,15 @@
 
 - 🎥 I’m currently working on **Computer Vision projects**
 
-- ⚡ Since my field is engineering, I have knowledge and experience in electronics, microcontrollers, basic integrated circuit design, robotic design, as well as software.
+- 🚀 I was a rocket team avionics systems captain for 2 years at my university.
 
-- 🎨 I also use Blender as a hobby. **I will open an ArtStation account when I created enough art**
+- ⚡ Since my field is mechatronic engineering, I have knowledge and experience in electronics, microcontrollers, basic integrated circuit design, robotic design, as well as software. And I continue to improve myself even more.
+
+- 🎨 I also use Blender as a hobby. I will open an ArtStation account when I created enough art
 
 - 📫 You can reach me by **mrfrkymn317@gmail.com**
 
-- 👀 For future: **I will upload new projects here. Current version is just a start point.**
+- 👀 I will upload new projects here. Current version is just a start point.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
