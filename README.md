@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Ömer Faruk Yaman</h1>
-<h3 align="center">I am not just a programmer, programming is just a tool I use to build my dream projects.My main interests are robotics, automation and self sufficent smart systems.</h3>
+<h3 align="center">I am not just a programmer, programming is a tool I use to build my dream projects.My main interests are robotics, automation and self sufficent smart systems.</h3>
 
 - 👨‍🎓 I’m currently a mechatronic enginnering student at **Bursa Technical University**
 
